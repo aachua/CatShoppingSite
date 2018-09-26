@@ -1,0 +1,92 @@
+.inCart
+{
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.label
+{
+	width:100%;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.headerRow
+{
+	display:none;
+}
+
+.item-name
+{
+	float: left;
+	font-size: 25px;
+	width: 75%;
+}
+
+.item-price 
+{
+	float: left;
+	font-size: 25px; 
+	width: 15%
+}
+
+.item-decrement 
+{
+	float: left;
+	font-size: 25px;
+	width: 3%;
+}
+
+.item-quantity 
+{
+	float: left;
+	font-size: 25px;  
+	width: 3%;
+}
+
+.item-increment 
+{
+
+	font-size: 25px; 
+}
+
+.item-total 
+{
+
+	display:none;
+    
+}
+
+.item-remove 
+{
+	font-size: 25px;
+	margin-bottom: 50px;
+}
+
+.btnAddAction{
+    background-color:#79b946;
+    border:0;
+    padding:3px 10px;
+    color:#FFF;
+    margin-left:1px;
+    
+}
+
+.message
+{
+	font-size: 25px;
+	
+}
+
+.navbuttons
+{
+	margin-top: 5%;
+	width: 100%;
+	text-align:center;
+}
+
+.simpleCart_quantity
+{
+	width: 100%;
+}
